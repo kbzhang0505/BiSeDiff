@@ -10,7 +10,6 @@ of the input non-tileable exemplar. Existing methods face significant challenges
 Fig. 1. Challenges in Texture Tiling. Given a non-tileable exemplar, existing methods struggle with inconsistent texture and discontinuous boundaries. Our method generates boundary-free images while faithfully preserving the input’s structure and style.
 
 ## Main Contributions of BiSeDiff
-
 1. We propose BiSeDiff, a diffusion framework with Bidirectional Shift Equivariance (BiSE) for seamless textile texture generation.
 
 2.We design an odd–even denoising strategy and a ViTA module to improve boundary continuity, structure consistency, and style fidelity.
