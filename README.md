@@ -12,7 +12,7 @@ Fig. 1. Challenges in Texture Tiling. Given a non-tileable exemplar, existing me
 ## Main Contributions of BiSeDiff
 
 1. We propose BiSeDiff, a diffusion framework with Bidirectional Shift Equivariance (BiSE) for seamless textile texture generation.
-2. 
+
 2.We design an odd–even denoising strategy and a ViTA module to improve boundary continuity, structure consistency, and style fidelity.
 
 3.We introduce Tiled-Hann Decoding (THD) for artifact-free large-scale reconstruction, achieving state-of-the-art seamless texture generation performance.
